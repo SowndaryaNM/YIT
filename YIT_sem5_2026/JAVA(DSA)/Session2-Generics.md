@@ -1,4 +1,4 @@
-# Java Generics & Object Sorting — 1-Hour Student Worksheet
+# Java Generics & Object Sorting — Student Worksheet
 
 **Topics:**
 Generic Classes & Methods | Type Safety | Comparable | Comparator | Sorting Objects | Custom Comparison Logic
