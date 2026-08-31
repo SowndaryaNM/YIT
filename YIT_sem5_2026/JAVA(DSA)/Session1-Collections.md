@@ -1,6 +1,6 @@
 # Java Collections — Student Worksheet
 
-### Duration: 2 Hours | Mode: Individual / Pair Activity
+### Mode: Individual / Pair Activity
 
 **Topics:**
 ArrayList vs LinkedList • HashSet • TreeSet • HashMap • TreeMap • Iterator • Enhanced for loop • Common Collection Methods
