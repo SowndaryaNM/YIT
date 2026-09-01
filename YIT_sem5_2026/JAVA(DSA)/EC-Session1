@@ -1,9 +1,14 @@
+Absolutely. For **ECE/EEE placement training**, I would avoid making this a syntax-heavy worksheet. The objective should be to check whether students can **read a requirement, identify the programming concept, and build a small solution**.
+
+Below is a **2-hour scenario-based Java worksheet** covering the core basics: variables, data types, input, operators, conditions, loops, arrays, strings, methods, and basic problem-solving.
 
 # JAVA BASICS — 2-HOUR SCENARIO-BASED WORKSHEET
 
 ### ECE / EEE Placement Training
 
 **Duration:** 2 Hours
+**Difficulty:** Basic → Moderate
+**Mode:** Individual / Pair Activity
 **Focus:** Think → Analyze → Code → Test
 
 ### Topics Covered
@@ -847,3 +852,43 @@ It should:
 
 **Input → Processing → Output**
 
+```text
+INPUT:
+____________________________________
+
+PROCESSING:
+____________________________________
+
+OUTPUT:
+____________________________________
+```
+
+Then write your Java solution.
+
+---
+
+## Trainer's Delivery Strategy
+
+I would **not** conduct this as "students solve 50 questions and trainer gives answers." That will turn into another academic programming exercise.
+
+Use this progression:
+
+**Part 1–4 → What?**
+Students identify data, variables, inputs and operations.
+
+**Part 5–7 → Why?**
+Students decide when a condition, multiple decision or repetition is necessary.
+
+**Part 8–10 → How?**
+Students apply arrays, strings and methods.
+
+**Part 11–12 → Integration**
+Students stop thinking in terms of individual syntax and start building a solution.
+
+**Part 13 → Debugging mindset**
+They predict errors/output before executing.
+
+**Part 14 → Placement mindset**
+Give them the requirement and make them decide the approach themselves.
+
+The key trainer rule: **don't explain the syntax before students have identified why they need the construct.** This makes the worksheet much more effective for placement training, particularly for ECE/EEE students who may have seen programming academically but struggle to translate a real-world requirement into code.
