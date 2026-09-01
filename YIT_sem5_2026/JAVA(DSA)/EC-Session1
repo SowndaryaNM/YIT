@@ -1,9 +1,9 @@
+
 # JAVA BASICS — 2-HOUR SCENARIO-BASED WORKSHEET
 
 ### ECE / EEE Placement Training
 
 **Duration:** 2 Hours
-**Difficulty:** Basic → Moderate
 **Focus:** Think → Analyze → Code → Test
 
 ### Topics Covered
@@ -842,3 +842,8 @@ It should:
 * Find the highest-consuming device.
 * Count devices consuming more than a specified limit.
 * Display an appropriate warning.
+
+### Before coding, write:
+
+**Input → Processing → Output**
+
