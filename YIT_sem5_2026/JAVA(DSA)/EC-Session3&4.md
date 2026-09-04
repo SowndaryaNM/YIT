@@ -1,7 +1,3 @@
-Absolutely. Since **Arrays** is already being handled separately, I’d make the **Methods + Modular Programming** worksheet more placement-oriented and progressively challenging rather than turning it into a syntax exercise.
-
-Below is a **4-hour student worksheet** designed around **What → Why → How → Apply → Refactor → Design**.
-
 # Java Methods + Modular Programming — 4-Hour Worksheet
 
 ### Topics Covered
@@ -20,10 +16,6 @@ Below is a **4-hour student worksheet** designed around **What → Why → How �
 * Designing modular solutions
 * Debugging method-related problems
 * Refactoring monolithic code
-
-### Difficulty Progression
-
-**Level 1 → Understand → Level 2 → Apply → Level 3 → Analyze → Level 4 → Design**
 
 ---
 
