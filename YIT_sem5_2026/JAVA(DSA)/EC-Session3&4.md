@@ -1,4 +1,4 @@
-# Java Methods + Modular Programming — 4-Hour Worksheet
+# Java Methods + Modular Programming
 
 ### Topics Covered
 
