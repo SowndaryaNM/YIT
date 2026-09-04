@@ -1,7 +1,5 @@
 # Java Arrays – Logic & Problem-Solving Worksheet
 
-**Duration:** 1.5 Hours
-**Level:** Medium → Upper Medium
 **Focus:** Traversal, Indexing, Searching, Min/Max, Sum, Counting, Frequency
 **Restriction:** Unless explicitly mentioned, do **not** use `Arrays.sort()`, `HashMap`, `HashSet`, or streams.
 
